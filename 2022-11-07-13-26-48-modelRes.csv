@@ -1,0 +1,2 @@
+model,AUC,pAUC,precision,recall,F1 score
+autoencoder,1.0,1.0,0.9123711340206185,1.0,0.9541778975741241
